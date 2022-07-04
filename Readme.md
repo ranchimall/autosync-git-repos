@@ -17,7 +17,7 @@ B(Local storage) -- Push --> D[Codeberg]
 
 # Setup
 
-**Very Important** - If you have cloned the Autosync git repo, then you have to delete the .git folder in its root directory using `sudo rm -r .git`
+**Very Important** - If you have cloned the Autosync git repo, then delete the **.git** folder in its base directory using `sudo rm -r .git`
 
 ## 1. Configure config.ini
 
