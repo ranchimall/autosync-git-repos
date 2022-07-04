@@ -42,7 +42,7 @@ You will need to create personal access tokens under your account's 'Settings' t
 
 Setup supervisord configuration file for the script
 
-`vim /etc/supervisor/conf.d/autosync-repos.conf`
+`sudo vim /etc/supervisor/conf.d/autosync-repos.conf`
 
 with the following content
 
